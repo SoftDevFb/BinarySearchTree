@@ -71,10 +71,7 @@ namespace BinarySearchTree
             }
         }//end of Insert()
 
-        internal string SearchTree()
-        {
-            return "This is a tree!";
-        }
+      
 
 
         /// <summary>
