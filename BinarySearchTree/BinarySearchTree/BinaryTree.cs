@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// Developer:  Frankie Barrios
+/// Date:       11/8/18
+/// Purpose:    Binary Search Tree
+/// </summary>
+
 namespace BinarySearchTree
 {
     class BinaryTree
